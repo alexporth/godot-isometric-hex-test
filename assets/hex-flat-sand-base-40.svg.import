@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/hex-flat-gravel-pure-40.svg-5015347c9b6a021374ff3579078fa407.stex"
+path="res://.import/hex-flat-sand-base-40.svg-1f31ff3229f28f86d7434d62f2b158a4.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://hex-flat-gravel-pure-40.svg"
-dest_files=[ "res://.import/hex-flat-gravel-pure-40.svg-5015347c9b6a021374ff3579078fa407.stex" ]
+source_file="res://assets/hex-flat-sand-base-40.svg"
+dest_files=[ "res://.import/hex-flat-sand-base-40.svg-1f31ff3229f28f86d7434d62f2b158a4.stex" ]
 
 [params]
 

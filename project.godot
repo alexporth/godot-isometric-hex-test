@@ -16,8 +16,8 @@ _global_script_class_icons={
 [application]
 
 config/name="Isometric-Hexagon-Test"
-run/main_scene="res://IsoFlatHex Test.tscn"
-config/icon="res://icon.png"
+run/main_scene="res://scenes/IsoFlatHex Test.tscn"
+config/icon="res://assets/icon.png"
 
 [display]
 
@@ -30,4 +30,4 @@ window/stretch/aspect="expand"
 
 [rendering]
 
-environment/default_environment="res://default_env.tres"
+environment/default_environment="res://resources/default_env.tres"

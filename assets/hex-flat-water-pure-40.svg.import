@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/hex-flat-water-pure-40.svg-92ac23c7470878dfe818f6e4b5c7886e.stex"
+path="res://.import/hex-flat-water-pure-40.svg-192df18fdcdf56a0ed40e89d7ae5d372.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://hex-flat-water-pure-40.svg"
-dest_files=[ "res://.import/hex-flat-water-pure-40.svg-92ac23c7470878dfe818f6e4b5c7886e.stex" ]
+source_file="res://assets/hex-flat-water-pure-40.svg"
+dest_files=[ "res://.import/hex-flat-water-pure-40.svg-192df18fdcdf56a0ed40e89d7ae5d372.stex" ]
 
 [params]
 
