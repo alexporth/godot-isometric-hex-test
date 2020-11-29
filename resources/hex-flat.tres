@@ -1,0 +1,25 @@
+[gd_resource type="TileSet" load_steps=3 format=2]
+
+[ext_resource path="res://assets/hex-flat-grass-base-64.png" type="Texture" id=1]
+
+[sub_resource type="NavigationPolygon" id=1]
+vertices = PoolVector2Array( -20, -20, 20, -20, 39, -3, 19, 14, -19, 14, -39, -3 )
+polygons = [ PoolIntArray( 0, 1, 2, 3, 4, 5 ) ]
+outlines = [ PoolVector2Array( -20, -20, 20, -20, 39, -3, 19, 14, -19, 14, -39, -3 ) ]
+
+[resource]
+0/name = "flat-grass-base"
+0/texture = ExtResource( 1 )
+0/tex_offset = Vector2( 0, 0 )
+0/modulate = Color( 1, 1, 1, 1 )
+0/region = Rect2( 0, 0, 79, 40 )
+0/tile_mode = 0
+0/occluder_offset = Vector2( 39.5, 20 )
+0/navigation_offset = Vector2( 39.5, 20 )
+0/navigation = SubResource( 1 )
+0/shape_offset = Vector2( 0, 0 )
+0/shape_transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+0/shape_one_way = false
+0/shape_one_way_margin = 0.0
+0/shapes = [  ]
+0/z_index = 0
